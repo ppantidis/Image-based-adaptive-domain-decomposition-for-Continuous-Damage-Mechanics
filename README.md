@@ -1,0 +1,1 @@
+# Image-based-adaptive-domain-decomposition-for-Continuous-Damage-Mechanics
